@@ -4,3 +4,4 @@ K8S Exam
     * .txt file with written answers - main part
     * some other files that are relevant (like files created or needed as part of the answers).
 3. Important: note that i used minikube for k8s with WIN (not linux) so i changes some commands accordingly.
+4. repo at: https://github.com/Skollow/JB-K8S
